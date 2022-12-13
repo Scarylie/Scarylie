@@ -1,9 +1,9 @@
-### Hi there 👋
 
-<!--
-**Scarylie/Scarylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
 
-Here are some ideas to get you started:
+
+💻 Tech Stack:
+CSS3 JavaScript html5 netlify express.js NPM node.js react ReactRouter Redux Styled-Components MongoDB Figma 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
