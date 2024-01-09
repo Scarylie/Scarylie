@@ -3,7 +3,7 @@
 
 
 💻 Tech Stack:
-CSS3 JavaScript html5 netlify express.js NPM node.js react ReactRouter Redux Styled-Components MongoDB Figma 
+CSS3 JavaScript html5 netlify express.js NPM node.js react ReactRouter Redux Styled-Components MongoDB Figma Next.js Sanity CMS Tailwind
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
